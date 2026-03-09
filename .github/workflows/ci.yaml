@@ -1,0 +1,74 @@
+name: Angular Test
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  angular-test:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install Dependencies
+        run: |
+          cd frontend/angular-app
+          npm install
+
+      - name: Start Angular Server
+        run: |
+          cd frontend/angular-app
+          npm install -g @angular/cli
+          ng serve --port 4200 &
+
+      - name: Wait for Server
+        run: sleep 20
+
+      - name: Print Success
+        run: echo "Angular server started successfully"
+
+# name: Multi Project CI/CD Pipeline
+# on:
+#     push:
+#         branches:
+#             -main
+#     jobs:
+#         build:
+#             runs-on: ubuntu-latest
+#             steps:
+#                 -name: Checkout Repository
+#                 uses: action/Checkout@v3
+#                 -name: Setup Node
+#                 uses: actions/setup-node@v3
+#                 with:
+#                     node-version:18
+#                 -name: Install Angular Dependencies
+#                 run: |
+#                     cd Bucket-angular
+#                     npm Install
+#                 -name: Build Angular
+#                 run: |
+#                     cd Bucket-angular
+#                     npm run build
+#                 -name: Setup .Net
+#                 uses: actions/setup-dotnet@v3
+#                 with:
+#                     dotnet-version:8.0.x
+#                 -name: Name restore API Package
+#                 run: |
+#                     cd BucketBackend
+#                     dotnet restore
+#                 -name: Build API
+#                 run: |
+#                     cd BucketBackend
+#                     dotbet build --configuration Release

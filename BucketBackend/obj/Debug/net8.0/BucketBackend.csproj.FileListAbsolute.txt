@@ -150,3 +150,15 @@ X:\Bucket-curd\BucketBackend\obj\Debug\net8.0\BucketBackend.MvcApplicationPartsA
 X:\Bucket-curd\BucketBackend\obj\Debug\net8.0\BucketBackend.dll
 X:\Bucket-curd\BucketBackend\obj\Debug\net8.0\refint\BucketBackend.dll
 X:\Bucket-curd\BucketBackend\obj\Debug\net8.0\BucketBackend.pdb
+E:\Bucket-curd\BucketBackend\obj\Debug\net8.0\BucketBackend.csproj.AssemblyReference.cache
+E:\Bucket-curd\BucketBackend\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Bucket-curd\BucketBackend\obj\Debug\net8.0\BucketBackend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bucket-curd\BucketBackend\obj\Debug\net8.0\BucketBackend.AssemblyInfoInputs.cache
+E:\Bucket-curd\BucketBackend\obj\Debug\net8.0\BucketBackend.AssemblyInfo.cs
+E:\Bucket-curd\BucketBackend\obj\Debug\net8.0\BucketBackend.csproj.CoreCompileInputs.cache
+E:\Bucket-curd\BucketBackend\obj\Debug\net8.0\BucketBackend.MvcApplicationPartsAssemblyInfo.cs
+E:\Bucket-curd\BucketBackend\obj\Debug\net8.0\BucketBackend.MvcApplicationPartsAssemblyInfo.cache
+E:\Bucket-curd\BucketBackend\obj\Debug\net8.0\BucketBackend.sourcelink.json
+E:\Bucket-curd\BucketBackend\obj\Debug\net8.0\BucketBackend.dll
+E:\Bucket-curd\BucketBackend\obj\Debug\net8.0\refint\BucketBackend.dll
+E:\Bucket-curd\BucketBackend\obj\Debug\net8.0\BucketBackend.pdb

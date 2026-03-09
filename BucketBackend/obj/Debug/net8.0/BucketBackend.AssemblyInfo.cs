@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BucketBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86206b8250faed1fe1f05121c66556aa7dd963c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("BucketBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BucketBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

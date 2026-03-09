@@ -1,33 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "X:\\Bucket-curd\\BucketBackend\\",
+  "WorkspaceRootPath": "E:\\Bucket-curd\\BucketBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E45130A-A16F-45CC-9F2B-24B5FD098330}|BucketBackend.csproj|x:\\bucket-curd\\bucketbackend\\data\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E45130A-A16F-45CC-9F2B-24B5FD098330}|BucketBackend.csproj|solutionrelative:data\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E45130A-A16F-45CC-9F2B-24B5FD098330}|BucketBackend.csproj|x:\\bucket-curd\\bucketbackend\\data\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E45130A-A16F-45CC-9F2B-24B5FD098330}|BucketBackend.csproj|solutionrelative:data\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E45130A-A16F-45CC-9F2B-24B5FD098330}|BucketBackend.csproj|x:\\bucket-curd\\bucketbackend\\data\\classreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E45130A-A16F-45CC-9F2B-24B5FD098330}|BucketBackend.csproj|solutionrelative:data\\classreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E45130A-A16F-45CC-9F2B-24B5FD098330}|BucketBackend.csproj|x:\\bucket-curd\\bucketbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E45130A-A16F-45CC-9F2B-24B5FD098330}|BucketBackend.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E45130A-A16F-45CC-9F2B-24B5FD098330}|BucketBackend.csproj|x:\\bucket-curd\\bucketbackend\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E45130A-A16F-45CC-9F2B-24B5FD098330}|BucketBackend.csproj|solutionrelative:controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E45130A-A16F-45CC-9F2B-24B5FD098330}|BucketBackend.csproj|x:\\bucket-curd\\bucketbackend\\controllers\\vcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E45130A-A16F-45CC-9F2B-24B5FD098330}|BucketBackend.csproj|e:\\bucket-curd\\bucketbackend\\controllers\\vcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E45130A-A16F-45CC-9F2B-24B5FD098330}|BucketBackend.csproj|solutionrelative:controllers\\vcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E45130A-A16F-45CC-9F2B-24B5FD098330}|BucketBackend.csproj|x:\\bucket-curd\\bucketbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8E45130A-A16F-45CC-9F2B-24B5FD098330}|BucketBackend.csproj|e:\\bucket-curd\\bucketbackend\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E45130A-A16F-45CC-9F2B-24B5FD098330}|BucketBackend.csproj|solutionrelative:controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E45130A-A16F-45CC-9F2B-24B5FD098330}|BucketBackend.csproj|e:\\bucket-curd\\bucketbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8E45130A-A16F-45CC-9F2B-24B5FD098330}|BucketBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -38,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,24 +30,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClassReposity.cs",
-              "DocumentMoniker": "X:\\Bucket-curd\\BucketBackend\\Data\\ClassReposity.cs",
-              "RelativeDocumentMoniker": "Data\\ClassReposity.cs",
-              "ToolTip": "X:\\Bucket-curd\\BucketBackend\\Data\\ClassReposity.cs",
-              "RelativeToolTip": "Data\\ClassReposity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T16:46:41.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "VController.cs",
-              "DocumentMoniker": "X:\\Bucket-curd\\BucketBackend\\Controllers\\VController.cs",
+              "DocumentMoniker": "E:\\Bucket-curd\\BucketBackend\\Controllers\\VController.cs",
               "RelativeDocumentMoniker": "Controllers\\VController.cs",
-              "ToolTip": "X:\\Bucket-curd\\BucketBackend\\Controllers\\VController.cs",
+              "ToolTip": "E:\\Bucket-curd\\BucketBackend\\Controllers\\VController.cs",
               "RelativeToolTip": "Controllers\\VController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,11 +43,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "X:\\Bucket-curd\\BucketBackend\\appsettings.json",
+              "DocumentMoniker": "E:\\Bucket-curd\\BucketBackend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "X:\\Bucket-curd\\BucketBackend\\appsettings.json",
+              "ToolTip": "E:\\Bucket-curd\\BucketBackend\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -84,54 +55,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ItemController.cs",
-              "DocumentMoniker": "X:\\Bucket-curd\\BucketBackend\\Controllers\\ItemController.cs",
+              "DocumentMoniker": "E:\\Bucket-curd\\BucketBackend\\Controllers\\ItemController.cs",
               "RelativeDocumentMoniker": "Controllers\\ItemController.cs",
-              "ToolTip": "X:\\Bucket-curd\\BucketBackend\\Controllers\\ItemController.cs",
+              "ToolTip": "E:\\Bucket-curd\\BucketBackend\\Controllers\\ItemController.cs",
               "RelativeToolTip": "Controllers\\ItemController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAABQwBoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T16:46:41.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ItemRepository.cs",
-              "DocumentMoniker": "X:\\Bucket-curd\\BucketBackend\\Data\\ItemRepository.cs",
-              "RelativeDocumentMoniker": "Data\\ItemRepository.cs",
-              "ToolTip": "X:\\Bucket-curd\\BucketBackend\\Data\\ItemRepository.cs",
-              "RelativeToolTip": "Data\\ItemRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T16:46:41.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "X:\\Bucket-curd\\BucketBackend\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "X:\\Bucket-curd\\BucketBackend\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T16:46:41.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Item.cs",
-              "DocumentMoniker": "X:\\Bucket-curd\\BucketBackend\\Data\\Item.cs",
-              "RelativeDocumentMoniker": "Data\\Item.cs",
-              "ToolTip": "X:\\Bucket-curd\\BucketBackend\\Data\\Item.cs",
-              "RelativeToolTip": "Data\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T16:46:41.351Z",
               "EditorCaption": ""
             }
           ]
