@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bU+v1r2o5KyFb+De/jwymoBa3ZXfB1RH+RsO1g7yj2Q=",
+  "Source": "BucketBackend",
+  "BasePath": "_content/BucketBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
