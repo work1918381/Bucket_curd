@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# when folder show arrow and not load then
+cd E:\Bucket-curd
+git rm --cached Bucket-angular
+rmdir /s /q Bucket-angular\.git
+git add Bucket-angular
+git commit -m "Fix Angular folder (remove submodule)"
+git push
+git config --global core.autocrlf true
