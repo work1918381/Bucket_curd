@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<div class="container">
+  
+  <br><br>
+  <form #infoForm="ngForm" (ngSubmit)="submitButton(infoForm.value)">
+      <label for="name">Item Name<span class="requied">* </span>:</label>
+      <input id="name" name="itemname" type="text" [(ngModel)]="itemname"  required [readonly]="isCreateDateDisabled">
+      <br><br>
+      <label for="created">Created Date <span class="requied">* </span>:</label>
+      <input id="created" name="create"  [(ngModel)]="create" type="date" required  [readonly]="isCreateDateDisabled">
+      <br><br>
+      <label for="updated">Updated Date<span class="requied">* </span>:</label>
+      <input id="updated" name="update" type="date"  [(ngModel)]="update" required>
+      <br><br>
+      <label for="quantity">Quantity<span class="requied">* </span>:</label>
+      <input id="quantity" name="quantity" type="number"  [(ngModel)]="quantity" required>
+      <br><br>
+      <button *ngIf="userId === null">Submit</button>
+      <button *ngIf="userId !== null">Edit</button>      
+      <button style="margin-left: 5%;" type="button" (click)="onClear()">Clear</button> 
+  </form>
+</div>
+

@@ -1,0 +1,182 @@
+
+.container {
+  width: 80%;
+  max-width: 600px;
+  margin: 50px auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+} 
+
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input, select {
+  width: 90%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+input[type="tel"] {
+  -moz-appearance: textfield; 
+}
+
+input[type="tel"]::-webkit-inner-spin-button,
+input[type="tel"]::-webkit-outer-spin-button {
+  -webkit-appearance: none; 
+}
+
+.table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.table th, .table td {
+  text-align: center;
+  padding: 12px 15px;
+}
+
+.table th {
+  background-color: #073A4B;
+  color: white;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+.table tbody tr:hover {
+  background-color: #f1f1f1;
+}
+
+
+.table-bordered {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+h2 {
+  font-size: 1.8rem;
+  font-weight: 500;
+}
+
+
+
+.btn {
+  padding: 8px 16px;
+  font-size: 16px; 
+  border-radius: 5px;
+  color: #073A4B; 
+  background-color: transparent; 
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.3s ease;
+}
+
+.btn i {
+  font-size: 18px;
+}
+
+.btn:hover {
+  color: #e70505;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.btn-warning {
+  color: #073A4B; 
+  border: none; 
+}
+
+.btn-sm {
+  font-size: 14px;
+  width: 40px; 
+  height: 40px; 
+  padding: 0; 
+  text-align: center;
+  justify-content: center;
+}
+
+.blue-button {
+  background-color: #073A4B;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.3rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+
+.button-container {
+  text-align: right; 
+  margin-top: 20px;  
+  margin-right: 10px;
+}
+
+
+
+.center-text {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+
+.input-row {
+  display: flex;
+  align-items: center; 
+  margin-left:70px;
+  margin-bottom: 15px; 
+}
+
+
+.input-label {
+  margin-right: 10px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+
+.input-field {
+  padding: 8px;
+  font-size: 1rem;
+  width: 100%; 
+  max-width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+
+.center-button {
+  text-align: center;
+  margin-top: 20px;
+}
+
+
+.btn-change {
+  padding: 10px 20px;
+  background-color: #073A4B;
+  color: white;
+  font-size: 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn-change:hover {
+  background-color: #052530;
+}
